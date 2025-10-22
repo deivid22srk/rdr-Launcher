@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "name": "Red Dead Redemption",
+  "author": "RDR Port",
+  "elements": [
+    {
+      "type": "dpad",
+      "name": "Movement",
+      "position": {"x": 0.1, "y": 0.7},
+      "size": 0.15,
+      "bindings": {
+        "up": "W",
+        "down": "S",
+        "left": "A",
+        "right": "D"
+      }
+    },
+    {
+      "type": "button",
+      "name": "Jump",
+      "position": {"x": 0.85, "y": 0.65},
+      "size": 0.08,
+      "binding": "SPACE"
+    },
+    {
+      "type": "button",
+      "name": "Aim/Block",
+      "position": {"x": 0.75, "y": 0.75},
+      "size": 0.08,
+      "binding": "MOUSE_RIGHT"
+    },
+    {
+      "type": "button",
+      "name": "Shoot/Attack",
+      "position": {"x": 0.9, "y": 0.8},
+      "size": 0.08,
+      "binding": "MOUSE_LEFT"
+    },
+    {
+      "type": "button",
+      "name": "Reload",
+      "position": {"x": 0.88, "y": 0.55},
+      "size": 0.06,
+      "binding": "R"
+    },
+    {
+      "type": "button",
+      "name": "Cover",
+      "position": {"x": 0.72, "y": 0.6},
+      "size": 0.06,
+      "binding": "Q"
+    },
+    {
+      "type": "button",
+      "name": "Dead Eye",
+      "position": {"x": 0.15, "y": 0.5},
+      "size": 0.07,
+      "binding": "E"
+    },
+    {
+      "type": "button",
+      "name": "Interact",
+      "position": {"x": 0.85, "y": 0.45},
+      "size": 0.06,
+      "binding": "F"
+    },
+    {
+      "type": "button",
+      "name": "Whistle Horse",
+      "position": {"x": 0.05, "y": 0.5},
+      "size": 0.06,
+      "binding": "H"
+    },
+    {
+      "type": "button",
+      "name": "Map",
+      "position": {"x": 0.5, "y": 0.05},
+      "size": 0.06,
+      "binding": "M"
+    },
+    {
+      "type": "button",
+      "name": "Inventory",
+      "position": {"x": 0.42, "y": 0.05},
+      "size": 0.06,
+      "binding": "I"
+    },
+    {
+      "type": "button",
+      "name": "Pause",
+      "position": {"x": 0.58, "y": 0.05},
+      "size": 0.06,
+      "binding": "ESC"
+    },
+    {
+      "type": "joystick",
+      "name": "Camera",
+      "position": {"x": 0.85, "y": 0.25},
+      "size": 0.12,
+      "binding": "MOUSE_LOOK"
+    },
+    {
+      "type": "button",
+      "name": "Sprint",
+      "position": {"x": 0.15, "y": 0.85},
+      "size": 0.06,
+      "binding": "SHIFT"
+    },
+    {
+      "type": "button",
+      "name": "Crouch",
+      "position": {"x": 0.25, "y": 0.85},
+      "size": 0.06,
+      "binding": "CTRL"
+    }
+  ]
+}
